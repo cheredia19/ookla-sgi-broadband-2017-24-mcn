@@ -9,7 +9,7 @@ description: Micronesia
 
 <FlatUiTable
   data={{
-    url: 'au_nz.csv'
+    url: 'mcn.csv'
   }}
 />
 
